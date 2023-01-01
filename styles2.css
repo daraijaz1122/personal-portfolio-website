@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+h1 {
+    margin: 0;
+    font-family: 'sacramento', cursive;
+    font-size: 100px;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+
+    padding-bottom: 10px;
+}
+
+a {
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    color: #11999E;
+}
+
+.top-container {
+
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+
+
+}
+
+.middle-container {}
+
+.bottom-container {
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
+
+.dev-img {
+    width: 150px;
+    height: 150px;
+    background-color: dimgray;
+}
+
+.comp {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 40px;
+
+}
+
+.chilliee {
+    width: 25%;
+    height: 25%;
+    float: right;
+    margin-left: 40px;
+}
+
+.skills {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+
+}
+
+p {
+    line-height: 2;
+}
+
+.top-cloud {
+    position: absolute;
+    left: 900px;
+    top: 40px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+hr {
+    border: dotted #074b4b 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+}
+
+.personal-info {
+    margin: 100px auto 100px auto;
+}
+
+.contact-info {
+    margin: 40px auto 40px auto;
+    width: 40%;
+}
+
+h4 {
+    color: #d9efef;
+}
+
+.btn {
+    font-family: impact;
+    color: #020c10 !important;
+    font-size: 18px;
+    text-shadow: 2px 2px 1px #7CACDE;
+    box-shadow: 1px 1px 1px #BEE2F9;
+    padding: 10px 23px;
+    border-radius: 10px;
+    border: 1px groove #3866A3;
+    background: #63B8EE;
+    background: linear-gradient(to top, #63B8EE, #468CCF);
+}
+
+.btn:hover {
+    color: #14396A !important;
+    background: #40CF70;
+    background: linear-gradient(to top, #40CF70, #A7EED6);
+}
